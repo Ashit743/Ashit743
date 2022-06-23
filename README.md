@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ashit743
 - 👀 I’m interested in innovating
-- 🌱 I’m currently learning python and Kotlin
+- 🌱 I’m currently learning python, NodeJs, Angular and Flask
 - 💞️ I’m looking to collaborate on opensource projects 
 
 <!---

@@ -2,15 +2,10 @@
 <h3 align="center">Front end developer based out in Bengaluru</h3>
 
 <p align = "center" >As a front-end developer, I love building beautiful, responsive interfaces that bring websites to life. With a strong eye for design and a knack for coding, I specialize in turning mockups into pixel-perfect pages using HTML, CSS, and JavaScript. I'm always on the lookout for new libraries and frameworks to stay ahead of the curve, and I take pride in writing clean, well-documented code that's easy to maintain. When I'm not tinkering with code, I enjoy experimenting with new design trends and discussing the latest developments in front-end technology.</p>
-<img align="center" src="https://user-images.githubusercontent.com/63945407/223770829-53518bb6-418c-4fb8-be10-ebbcfa611c6a.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashit743&label=Profile%20views&color=0e75b6&style=flat" alt="ashit743" /> </p>
 
-- 🔭 I’m currently working on [Gamification of Mutual fund journey](https://github.com/Ashit743/invest_up)
-
 - 🌱 I’m currently learning **Vue3, React, Data structures and algorithms in C++**
-
-- 👨‍💻 All of my projects are available at [https://ashit.live/](https://ashit.live/)
 
 - 💬 Ask me about **vue3, C++, typescript, front end development**
 
